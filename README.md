@@ -32,6 +32,15 @@ Con 5 años de experiencia emprendedora, mi enfoque es aterrizar ideas y ventaja
 * **La Solución Técnica:** Herramienta automatizada utilizando Procesamiento de Lenguaje Natural (NLP) que genera estrategias directamente en Google Sheets a partir de comandos de texto.
 * **Impacto:** Aceleración exponencial en la planificación estratégica y estructuración de proyectos.
 
+### 🎬 Sistema de Recomendación de Películas (Machine Learning)
+He desarrollado un motor de recomendación híbrido que resuelve la parálisis por decisión en plataformas de streaming, aplicando técnicas de **Filtrado Colaborativo (KNN)** y **Basado en Contenido**.
+
+* **El Reto:** Gestionar el "ruido" de datos en el dataset de MovieLens (problema de la *Long Tail*) y superar el *Cold Start*.
+* **Mi Solución:** Implementé un proceso de limpieza que eliminó películas con baja representatividad y optimicé el motor de contenido para priorizar la calidad cinematográfica (Rating) en las sugerencias.
+* **Stack:** Python, Pandas, Scikit-Learn (NearestNeighbors, Cosine Similarity), Matplotlib & Seaborn.
+
+[📂 Ver Repositorio](https://github.com/fernandomartinezbuitrago-collab/Recomendador-de-Pel-culas.git) | [📊 Ver Notebook en Kaggle] (https://www.kaggle.com/code/ferecico/c-mo-sabe-netflix-lo-que-te-gusta))
+
 ---
 
 ## 📫 Contacto
