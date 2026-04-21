@@ -11,7 +11,7 @@ Con 5 años de experiencia emprendedora, mi enfoque es aterrizar ideas y ventaja
 * **Lenguajes:** 🐍 Python (Pandas, NumPy, Scikit-Learn) | 🗄️ SQL
 * **BI & Visualización:** 📊 Power BI (DAX / Dashboards) | 📗 Excel Avanzado
 * **IA & Automatización:** 🤖 LangChain | 🧠 OpenAI API | ⚡ Make | 🔗 Zapier | ⚙️ N8N
-* **Business:** 📈 Control de Gestión | 🎯 Estrategia ROI | 🔄 Mejora de Procesos (Lean)
+* **Business:** 📈 Control de Gestión | 🎯 Estrategia ROI | 🔄 Optimización de Procesos
 
 ---
 
