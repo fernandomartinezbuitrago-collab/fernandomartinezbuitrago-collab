@@ -56,4 +56,4 @@ Si buscas un perfil que entienda tanto la cuenta de resultados como el código, 
 
 * 💼 **LinkedIn:** [fernandomartinezbuitrago](https://www.linkedin.com/in/fernandomartinezbuitrago/)
 * ✉️ **Email:** [fernando.martinez.buitrago@gmail.com](mailto:fernando.martinez.buitrago@gmail.com)
-* 🌐 **Portafolio de Aplicaciones:** *(Enlace a tu perfil de GitHub o web personal)*
+* 🌐 **Portafolio de Aplicaciones:** (https://github.com/fernandomartinezbuitrago-collab/fernandomartinezbuitrago-collab/tree/main))*
